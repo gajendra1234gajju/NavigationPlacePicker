@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_title">AcadglidPicker</string>
+
+    <string name="pick_title">Pick a place</string>
+    <string name="pick_text">Clicking below constructs an Intent to show the place picker for home services.
+\nIf a place was selected, its details are read by gajendra kumar and takes care for your services.
+</string>
+    <string name="pick_action">Place location</string>
+
+    <string name="detail_text">Place id: %1$s\nAddress: %2$s\nPhone: %3$s\n\n%4$s</string>
+
+    <string name="empty"></string>
+</resources>
